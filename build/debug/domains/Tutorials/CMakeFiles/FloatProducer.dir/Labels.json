@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/venkata/myproject/domains/Tutorials/src/FloatProducer.C"
+		},
+		{
+			"file" : "/home/venkata/MIRA/base/src/factory/RegisterLibraryConstructor.C"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Tutorials"
+		],
+		"name" : "FloatProducer"
+	}
+}

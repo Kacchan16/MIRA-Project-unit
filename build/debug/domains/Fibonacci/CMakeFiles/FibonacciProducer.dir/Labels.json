@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/venkata/myproject/domains/Fibonacci/src/FibonacciProducer.C"
+		},
+		{
+			"file" : "/home/venkata/MIRA/base/src/factory/RegisterLibraryConstructor.C"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Fibonacci"
+		],
+		"name" : "FibonacciProducer"
+	}
+}

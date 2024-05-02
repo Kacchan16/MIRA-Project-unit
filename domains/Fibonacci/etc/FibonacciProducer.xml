@@ -1,0 +1,7 @@
+<root>
+
+	<unit id="MyFibonacciProducer" class="sequence::FibonacciProducer">
+		<!-- add your default parameters here-->
+	</unit>
+
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Manifest>
+    <LibraryName>FibonacciProducer</LibraryName>
+    <LibraryVersion>
+      <Major>0</Major>
+      <Minor>1</Minor>
+      <Patch>1</Patch>
+    </LibraryVersion>
+    <Classes>
+      <item>
+        <Class>
+          <Identifier>sequence::FibonacciProducer</Identifier>
+          <Name>FibonacciProducer</Name>
+          <Lib>FibonacciProducer</Lib>
+          <Meta/>
+          <Abstract>false</Abstract>
+        </Class>
+        <Parents>
+          <item>mira::Unit</item>
+        </Parents>
+      </item>
+    </Classes>
+  </Manifest>
+</root>

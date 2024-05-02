@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Manifest>
+    <LibraryName>FloatProducer</LibraryName>
+    <LibraryVersion>
+      <Major>0</Major>
+      <Minor>1</Minor>
+      <Patch>1</Patch>
+    </LibraryVersion>
+    <Classes>
+      <item>
+        <Class>
+          <Identifier>tutorials::FloatProducer</Identifier>
+          <Name>FloatProducer</Name>
+          <Lib>FloatProducer</Lib>
+          <Meta/>
+          <Abstract>false</Abstract>
+        </Class>
+        <Parents>
+          <item>mira::Unit</item>
+        </Parents>
+      </item>
+    </Classes>
+  </Manifest>
+</root>
